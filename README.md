@@ -1,4 +1,4 @@
-<a href="https://wakatime.com/@018c789e-5109-48a4-8f64-dd7e362ab3e2"><img src="https://wakatime.com/badge/user/018c789e-5109-48a4-8f64-dd7e362ab3e2.svg" alt="Total time coded since Dec 17 2023" /></a>
+[![wakatime](https://wakatime.com/badge/user/018c789e-5109-48a4-8f64-dd7e362ab3e2.svg)](https://wakatime.com/@018c789e-5109-48a4-8f64-dd7e362ab3e2)
 ## Hi there 👋
 
 
